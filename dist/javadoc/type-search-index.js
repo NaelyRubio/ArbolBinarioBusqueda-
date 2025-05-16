@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ed_uc4_229324_abba","l":"ArbolBinario"},{"p":"ed_uc4_229324_abba","l":"Nodo"},{"p":"ed_uc4_229324_abba","l":"Pruebas"}];updateSearchResults();
